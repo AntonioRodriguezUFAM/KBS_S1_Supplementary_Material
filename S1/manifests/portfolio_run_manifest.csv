@@ -1,8 +1,0 @@
-run_id,date,category,actions_csv_sha256_16,replay_events_sha256_16,thesis,eswa,kbs,access
-THERMAL_ORIGINAL_20260906_104854,20260906,"archive mission (thesis evidence, frozen 15 Sep)",8d8cf2e8686888e3,263f46061857a719,yes,"architecture, audit, W-EMA retain/cleared (early-75 power)",Stage A R-arms (early-75 power),catalogue source only
-THERMAL_REVISED1_20260906_190027,20260906,"archive mission (thesis evidence, frozen 15 Sep)",1cdf311733bfe26b,6083094359ce678a,yes,"architecture, audit, W-EMA retain/cleared (early-75 power)",Stage A R-arms (early-75 power),catalogue source only
-THERMAL_REVISED2_20260907_090022,20260907,"archive mission (thesis evidence, frozen 15 Sep)",2cc7d76670d6a55e,696729722b45a7fb,yes,"architecture, audit, W-EMA retain/cleared (early-75 power)",Stage A R-arms (early-75 power),catalogue source only
-pilot_THERMAL_ORIGINAL_20260918_085544,20260918,instrumented mission (post-thesis; collector 1.6.0),see pilot registry,8466eb689bcd274a,no,W-EMA retain/cleared (early-75 power),not used (superseded by 21-22 Sep runs),no
-pilot_THERMAL_REVISED2_20260921_224648,20260921,instrumented mission (post-thesis; collector 1.7.4/1.7.8),on Jetson (not supplied),on Jetson (not supplied),no,not used (logs not supplied),Stage A R-arms (early-75 power),no
-pilot_THERMAL_REVISED1_20260922_072144,20260922,instrumented mission (post-thesis; collector 1.7.4/1.7.8),on Jetson (not supplied),on Jetson (not supplied),no,not used (logs not supplied),Stage A R-arms (early-75 power),no
-pilot_THERMAL_ORIGINAL_20260922_202804,20260922,instrumented mission (post-thesis; collector 1.7.4/1.7.8),on Jetson (not supplied),on Jetson (not supplied),no,not used (logs not supplied),Stage A R-arms (early-75 power),no
