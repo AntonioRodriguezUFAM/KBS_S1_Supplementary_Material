@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the manuscript and this repository."
+title: "Supplementary Material S1 — Predictive performance of context-conditioned workload memory in heterogeneous SoCs"
+version: "1.0.0"
+date-released: "2026-09-30"
+repository-code: "https://github.com/AntonioRodriguezUFAM/KBS_S1_Supplementary_Material"
+license: MIT
+authors:
+  - family-names: "Rodriguez"
+    given-names: "Antonio Souto"
+    orcid: "https://orcid.org/0000-0002-2107-5074"
+    affiliation: "Institute of Computing, Federal University of Amazonas"
+  - family-names: "Hughes Carvalho"
+    given-names: "José Reginaldo"
+    orcid: "https://orcid.org/0000-0002-3828-7233"
+    affiliation: "Institute of Computing, Federal University of Amazonas"
+preferred-citation:
+  type: article
+  title: "Predictive performance of context-conditioned workload memory in heterogeneous SoCs"
+  authors:
+    - family-names: "Rodriguez"
+      given-names: "Antonio Souto"
+    - family-names: "Hughes Carvalho"
+      given-names: "José Reginaldo"
+  journal: "Knowledge-Based Systems"
+  year: 2026
+  notes: "Manuscript submitted."

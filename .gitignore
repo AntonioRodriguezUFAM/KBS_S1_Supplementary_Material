@@ -1,0 +1,7 @@
+# build products of reproduce.sh
+/tmp/
+*.o
+*.out
+a.out
+__pycache__/
+.DS_Store

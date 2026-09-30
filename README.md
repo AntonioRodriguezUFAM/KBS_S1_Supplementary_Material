@@ -1,5 +1,9 @@
 # Supplementary Material S1 — *Predictive performance of context-conditioned workload memory in heterogeneous SoCs*
 
+[![Reproduce](https://img.shields.io/badge/reproduce-bash%20reproduce.sh-blue)](reproduce.sh) [![License: MIT](https://img.shields.io/badge/code-MIT-green)](LICENSE) [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey)](results/LICENSE-DATA)
+
+Repository: https://github.com/AntonioRodriguezUFAM/KBS_S1_Supplementary_Material
+
 A. S. Rodriguez and J. R. Hughes Carvalho, Federal University of Amazonas. Prepared for *Knowledge-Based Systems*. Package date: 30 September 2026.
 
 This package contains everything the manuscript's Data and code availability statement lists, arranged so that the reproducible parts run with one command and the parts that need the mission recordings are clearly separated.
@@ -46,7 +50,7 @@ Requires g++ (C++11), Python 3 with pandas, numpy and matplotlib. Expected outpu
 ```bash
 ./replay_stageA <events.jsonl> <out_dir> [modes] [K=3] [dmax=10] [lambda_s=600] [ctxscale_mult=1] [bank_budget=1024] [tag]
 ```
-The six mission recordings (three archived missions replayed through the observation layer, three instrumented missions) are held by the authors and are available on reasonable request; they are not included here. No public deposit has been made at the time of submission. The package is prepared for deposit (Zenodo or Mendeley Data) and a DOI will be added at the revision stage if the editor requests it.
+The six mission recordings (three archived missions replayed through the observation layer, three instrumented missions) are held by the authors and are available on reasonable request; they are not included here. This repository is the public deposit of the package; a versioned release (v1.0.0) is tagged for the submission, and a Zenodo DOI can be minted from that release.
 
 ## Definitions used throughout
 
@@ -54,4 +58,4 @@ A *cell* is one returning workload entry in one mission; its value is the mean a
 
 ## Licence
 
-Code: MIT. Result tables and figure: CC BY 4.0. Both authors approve this release.
+Code: MIT (`LICENSE`). Result tables, summaries and figure: CC BY 4.0 (`results/LICENSE-DATA`). Cite with `CITATION.cff`.
