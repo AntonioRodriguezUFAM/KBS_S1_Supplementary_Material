@@ -1,0 +1,20 @@
+# S1 — sha256  bytes  path
+36eed4cf58a52e7868775b6e75b0b8bdcdc7a3a36b32538aa0e166d50253fc45      4231  README.md
+29098744e404dd44084bf70046159bd9cd19a56c7bf556fcd676e5202d1b48b5     16361  code/hrl/ContextMemory.h
+1ae6123064cc978bab55337f6dcac98fa5294b74dd41a48378c57e3c4d5d398b      2442  code/make_figure.py
+265ae03b9df96d0e5b4df3f1f8b85c9d229de6527a0b8d80f94b406b526f60cc     13184  code/replay_stageA.cpp
+331c908797590011e8bb57641bd9f88ef09e3e98521cffc301916bb11a186473      2066  code/reproduce_tables.py
+7def590d460936b49eb6ac797d15142d863e6dce709797611578a97021d5e1aa      8416  code/test_contextmemory.cpp
+b2ec36649583f5382d967b395ff5cb86bc94c3907a968a33cf411252c90f5cfa      1725  manifests/portfolio_run_manifest.csv
+91840e7742bca4414c7e38d2baab081cbe9b7d8f38e1083edb7f8b5a966e4004       702  reproduce.sh
+3f1faf6fe15b753edd7b9e292bf7114992d1659f63bf5e6291ac9c9551918dae    118342  results/fig_stageA_combined.png
+420a0a31dbd8028b029dc8f84e7e6a46029a4f9fe9f665059f0a924670ae97f7      7039  results/per_mission/stageA_summary_archive_ORIGINAL_20260906.json
+73267549566d1a532e127afdf5065626bcf642f6584a84eab9e12aa6c5c1ab51      7044  results/per_mission/stageA_summary_archive_REVISED1_20260906.json
+0396e1b492bcfccd980d6b116b41b5b4bb5605497a3f5deea92f3737fa9a6dc0      7043  results/per_mission/stageA_summary_archive_REVISED2_20260906.json
+61aa32374d3342444dc74a696e6fc0123b12dbe3888660f56a2965b70b05d4d6     15825  results/per_mission/stageA_summary_archive_all_20260922.json
+df531552e6cb75c71623e602dc9d4a39b9a9388492170b6bf07cde703cd9cc2e      7153  results/per_mission/stageA_summary_instrumented_REVISED2_20260921.json
+e63f8661c00ce1719e52beea3d7e3f59925c5dc14881c72954e41573d061e829      1624  results/stageA_K2_sensitivity_grid.csv
+758f8ada1cf7f0a9c348c021141d7455f9755ac7255a2bc93f459feb45da9f43      9391  results/stageA_combined_48cells.csv
+b70efa4b4e3a40fb10cb9564c6e84a162b7d4c66adbced70fce80ce4841f7de1      1209  results/stageA_combined_per_mission.csv
+a4fc8e0a25d358558144a569f7ffc9ae7bd60ca260599a39ccadc1da9a048753      7451  results/stageA_early75_cells.csv
+1c2b32ce16042f66686adb20d648200894b94953fd32b4b0ef074908d94e4397      4678  results/stageA_live_early75_cells.csv
